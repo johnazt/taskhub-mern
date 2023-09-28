@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = 5500;
+const PORT = 8000;
 
 app.get('/', (req, res) => {
 	res.status(200).send('Server is working');
