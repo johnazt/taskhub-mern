@@ -58,4 +58,4 @@ $ npm run build // this will build the server code to es5 js codes and generate 
 ```
 
 ## Author 
-[johnazt](https://https://johnasto.netlify.app   )
+[johnazt](https://johnasto.netlify.app   )
